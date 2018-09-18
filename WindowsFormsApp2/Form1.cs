@@ -45,6 +45,11 @@ namespace WindowsFormsApp2
                 await Task.Delay(50);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
     
